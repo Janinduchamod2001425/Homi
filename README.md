@@ -1,5 +1,7 @@
 # 🏡 Homi - Full-Stack Real Estate Application
 
+<img src="./assets/reactnative.png" alt="Chat App Demo" width="700" height="750">
+
 `Homi` is a modern full-stack real estate application built with React Native and powered by Expo SDK 52, designed to deliver a seamless property browsing experience. With features like Google Authentication, Dynamic Property Listings, and User Profile Management, Homi ensures an intuitive and user-friendly platform for both property seekers and agents.
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,typescript,tailwind,appwrite" />
